@@ -784,6 +784,7 @@ button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
   fill: transparent;
   margin-right: 8px;
 }
